@@ -1,0 +1,12 @@
+c:\users\tuomo\documents\visual studio 2013\Projects\WebApiClient\bin\Debug\WebApiClient.exe.config
+c:\users\tuomo\documents\visual studio 2013\Projects\WebApiClient\bin\Debug\WebApiClient.exe
+c:\users\tuomo\documents\visual studio 2013\Projects\WebApiClient\bin\Debug\WebApiClient.pdb
+c:\users\tuomo\documents\visual studio 2013\Projects\WebApiClient\obj\Debug\WebApiClient.Form1.resources
+c:\users\tuomo\documents\visual studio 2013\Projects\WebApiClient\obj\Debug\WebApiClient.Properties.Resources.resources
+c:\users\tuomo\documents\visual studio 2013\Projects\WebApiClient\obj\Debug\WebApiClient.csproj.GenerateResource.Cache
+c:\users\tuomo\documents\visual studio 2013\Projects\WebApiClient\obj\Debug\WebApiClient.exe
+c:\users\tuomo\documents\visual studio 2013\Projects\WebApiClient\obj\Debug\WebApiClient.pdb
+c:\users\tuomo\documents\visual studio 2013\Projects\WebApiClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\tuomo\documents\visual studio 2013\Projects\WebApiClient\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\tuomo\documents\visual studio 2013\Projects\WebApiClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\tuomo\documents\visual studio 2013\Projects\WebApiClient\bin\Debug\System.Net.Http.Formatting.xml
